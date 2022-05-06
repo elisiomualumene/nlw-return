@@ -5,7 +5,7 @@ export const WidgetForm = () => {
             <span className="text-xl leading-6">Deixe seu Feedback</span>
         </header>
         <p>Hello World</p>
-        <footer>Feito com</footer>
+        <footer>Feito com 🤍 pela Rocketseat</footer>
     </div>
   )
 }
